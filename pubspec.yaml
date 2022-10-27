@@ -1,7 +1,8 @@
 name: busy_button
-description: A new Flutter package project.
-version: 0.0.1
-homepage:
+description: A Flutter package to build busy button.
+author: Elhadj Ndiaye
+version: 1.0.0
+homepage: https://github.com/elouboy/busy_button
 
 environment:
   sdk: '>=2.18.2 <3.0.0'
